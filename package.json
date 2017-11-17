@@ -1,0 +1,22 @@
+{
+  "name": "redux-reconnect",
+  "version": "1.0.0",
+  "description": "Connect React components to Redux using static properties",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Alexey Komarov <alex7kom@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-redux": "^4.0.0 || ^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex7Kom/redux-reconnect.git"
+  }
+}
